@@ -1,0 +1,7 @@
+public class PowerPlugThreePins {
+
+    private int neutro; 
+    private int fase; 
+    private int terra; 
+
+}

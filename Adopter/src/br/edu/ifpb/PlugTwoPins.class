@@ -1,0 +1,6 @@
+public class PlugTwoPins {
+
+    public int terra; 
+    public int fase;
+
+}
