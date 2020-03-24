@@ -20,6 +20,6 @@ public class Adopter extends PlugTwoPins implements PowerPlugThreePins {
             System.out.println("You are connected with 3 pins");
         else
             System.err.println("You already connected with 2  pins, " +
-                                "you need to set the neutro pin first.");
+                               "you need to set the neutro pin first.");
     }
 }
